@@ -1,6 +1,9 @@
 # Iterative-Prototype-2
+TRY THE BUILD: ITCH IO
 
-TOO LARGE FOR GITHUB - AVAILABLE HERE:
+https://axelhenir.itch.io/cart-315-iterative-prototype-2
+
+SAVEFILE TOO LARGE FOR GITHUB - AVAILABLE HERE:
 
 https://drive.google.com/drive/folders/1fOd8UbCUcTSutTsQLmPyOtBQ_hpuKGiP?usp=sharing
 
